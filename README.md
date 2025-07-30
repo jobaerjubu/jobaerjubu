@@ -63,9 +63,39 @@ Skills: Node JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/jobaerjubu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dev.to/jobaerjubu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jobaerjubu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/Jobaerjubu41/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/www.instagram.com/jobaerjubu02//)  
+<!-- Social Icons with spacing -->
+<p align="center">
+  <a href="https://github.com/jobaerjubu">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://dev.to/jobaerjubu">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/jobaerjubu/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.facebook.com/Jobaerjubu41/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.instagram.com/jobaerjubu02/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" />
+  </a>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<!-- GitHub Badges -->
+<p align="center">
+  <a href="https://archiveprogram.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/pricing">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://stars.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35" />
+  </a>
+</p>
+
+
 
 
 
