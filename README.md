@@ -34,7 +34,7 @@ I’m learning HTML, CSS, Tailwind CSS, JavaScript, and now exploring React. I l
 
 | Name               | Description                            | Live Demo |
 |--------------------|----------------------------------------|-----------|
-| 🎉 New Year Offer | A responsive landing page using HTML + CSS | [View Live](https://your-live-link.com) |
+| 🎉 About-My-Portfolio-Website | A responsive landing page using HTML + CSS | [View Live](https://jobaerjubu.github.io/About-My-Portfolio-Website-/) |
 | 🧮 Calculator App  | A simple calculator using HTML, CSS, JS | Coming Soon |
 | ✅ Todo App        | A task manager with local storage       | Coming Soon |
 
@@ -67,6 +67,6 @@ Skills: Node JS / REACT / JS / HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![GitHub streak stats](https://streak-stats.demolab.com?user=jobaerjubu&theme=tokyonight&hide_border=true)  
+
 
 
