@@ -1,5 +1,5 @@
 
-![🎓 Web Development Learner | Programming Hero (Batch 10)][(https://media.licdn.com/dms/image/v2/D5616AQGBIYq4dLLD2w/profile-displaybackgroundimage-shrink_350_1400/B56ZfkmHSNHEAY-/0/1751886887579?e=1756944000&v=beta&t=IVYsroFGrTXV8b5mdiSSU7128JunI5akYrj-8OwQxM0)](https://www.linkedin.com/in/jobaerjubu/overlay/background-image/)
+![🎓 Web Development Learner | Programming Hero (Batch 10)][(https://media.licdn.com/dms/image/v2/D5616AQGBIYq4dLLD2w/profile-displaybackgroundimage-shrink_350_1400/B56ZfkmHSNHEAY-/0/1751886887579?e=1756944000&v=beta&t=IVYsroFGrTXV8b5mdiSSU7128JunI5akYrj-8OwQxM0)](https://www.linkedin.com/in/jobaerjubu/overlay/background-image/) 
 
 <!-- Banner Image (optional) -->
 <!-- ![Banner](https://your-banner-link.com) -->
