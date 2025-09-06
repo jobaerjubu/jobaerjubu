@@ -1,17 +1,10 @@
 
-![🎓 Web Development Learner | Programming Hero (Batch 10)]
 
-(https://media.licdn.com/dms/image/v2/D5616AQGBIYq4dLLD2w/profile-displaybackgroundimage-shrink_350_1400/B56ZfkmHSNHEAY-/0/1751886887579?e=1759968000&v=beta&t=YqeINcZF2opZLsUw1z4oWnKBrVlDdfomXD35xEo-hxo)
+### Hi there 👋, 👋 Hello, I'm Jobaer Ahmed
+![](https://media.licdn.com/dms/image/v2/D5616AQGBIYq4dLLD2w/profile-displaybackgroundimage-shrink_350_1400/B56ZfkmHSNHEAY-/0/1751886887579?e=1759968000&v=beta&t=YqeINcZF2opZLsUw1z4oWnKBrVlDdfomXD35xEo-hxo)
 
 
-<!-- Banner Image (optional) -->
-<!-- ![Banner](https://your-banner-link.com) -->
-
-# 👋 Hello, I'm Jobaer Ahmed
-
-🚀 I'm a passionate **Web Development Learner** from Bangladesh, currently enrolled in **Programming Hero Web Development Course (Batch 10)**.
-
-I’m learning HTML, CSS, Tailwind CSS, JavaScript, and now exploring React. I love building simple and responsive websites as I grow in my web development journey.
+🚀 I'm a passionate Web Development Learner from Bangladesh, currently enrolled in Programming Hero Web Development Course (Batch 10).
 
 ---
 
